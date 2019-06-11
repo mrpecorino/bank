@@ -1,16 +1,10 @@
 package sunhillbank;
 
-import java.math.BigDecimal;
-import java.util.Set;
-import java.util.concurrent.TimeUnit;
-
-import org.springframework.stereotype.Service;
-
-import lombok.NonNull;
 import lombok.extern.slf4j.Slf4j;
-import sun.util.logging.resources.logging;
+import org.springframework.stereotype.Service;
 import sunhillbank.accounts.CheckingAccount;
-import sunhillbank.accounts.SavingAccount;
+
+import java.math.BigDecimal;
 
 import static sunhillbank.BankUtils.areBigDecimalsSame;
 

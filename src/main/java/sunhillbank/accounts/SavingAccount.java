@@ -1,8 +1,7 @@
 package sunhillbank.accounts;
 
-import sunhillbank.Owner;
-
 import lombok.NonNull;
+import sunhillbank.Owner;
 
 import java.math.BigDecimal;
 

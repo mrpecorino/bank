@@ -2,13 +2,10 @@ package sunhillbank.accounts;
 
 import lombok.Getter;
 import lombok.NonNull;
-import lombok.extern.java.Log;
 import lombok.extern.slf4j.Slf4j;
 import sunhillbank.Owner;
 
 import java.math.BigDecimal;
-import java.util.concurrent.TimeUnit;
-import java.util.concurrent.locks.ReentrantLock;
 
 @Slf4j
 @Getter

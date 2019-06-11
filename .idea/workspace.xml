@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="24304135-df99-467a-bf3c-125669d6115c" name="Default Changelist" comment="" />
+    <list default="true" id="24304135-df99-467a-bf3c-125669d6115c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/sunhillbank/accounts/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/sunhillbank/accounts/Account.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/sunhillbank/accounts/CheckingAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/sunhillbank/accounts/CheckingAccount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/sunhillbank/SunhillBankTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/sunhillbank/SunhillBankTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sunhillbank/SunhillBank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sunhillbank/SunhillBank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sunhillbank/accounts/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sunhillbank/accounts/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sunhillbank/accounts/SavingAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sunhillbank/accounts/SavingAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/sunhillbank/SunhillBankTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/sunhillbank/SunhillBankTest.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -19,13 +33,44 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="SunhillBank" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="SunhillBank" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="SunhillBank" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/sunhillbank/accounts/Account.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-67">
-              <caret line="19" column="40" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
+            <state relative-caret-position="375">
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
               <folding>
                 <element signature="e#452#453#0" expanded="true" />
                 <element signature="e#475#476#0" expanded="true" />
@@ -34,11 +79,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/sunhillbank/BankApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
+            <state relative-caret-position="90">
               <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -47,11 +104,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/sunhillbank/accounts/SavingAccount.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="195">
-              <caret line="17" column="50" selection-start-line="17" selection-start-column="50" selection-end-line="17" selection-end-column="50" />
-              <folding>
-                <element signature="e#527#528#0" expanded="true" />
-                <element signature="e#584#585#0" expanded="true" />
-              </folding>
+              <caret line="16" column="50" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
             </state>
           </provider>
         </entry>
@@ -59,10 +112,22 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/sunhillbank/accounts/CheckingAccount.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="31" lean-forward="true" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+            <state relative-caret-position="312">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -72,28 +137,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/sunhillbank/BankUtils.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
-              <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" selection-start-line="26" selection-end-line="26" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/sunhillbank/SunhillBank.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -108,22 +152,21 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/sunhillbank/SunhillBankTest.java">
+        <entry file="file://$PROJECT_DIR$/settings.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
+            <state>
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="n#!!doc" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/sunhillbank/accounts/SavingAccountTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/sunhillbank/SunhillBank.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="36" selection-start-line="36" selection-end-line="40" selection-end-column="25" />
+            <state relative-caret-position="210">
+              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -146,18 +189,22 @@
       <find>subtra</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/test/java/sunhillbank/accounts/SavingAccountTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/sunhillbank/BankUtils.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sunhillbank/accounts/SavingAccount.java" />
         <option value="$PROJECT_DIR$/src/main/java/sunhillbank/Owner.java" />
         <option value="$PROJECT_DIR$/src/test/java/sunhillbank/accounts/CheckingAccountTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sunhillbank/accounts/CheckingAccount.java" />
+        <option value="$PROJECT_DIR$/src/test/java/sunhillbank/SunhillBankTest.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/src/main/java/sunhillbank/SunhillBank.java" />
-        <option value="$PROJECT_DIR$/src/test/java/sunhillbank/SunhillBankTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sunhillbank/accounts/CheckingAccount.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sunhillbank/accounts/SavingAccount.java" />
         <option value="$PROJECT_DIR$/src/main/java/sunhillbank/accounts/Account.java" />
       </list>
     </option>
@@ -168,13 +215,12 @@
     <option name="width" value="1400" />
     <option name="height" value="830" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -185,11 +231,6 @@
             <path>
               <item name="SunhillBank" type="b2602c69:ProjectViewProjectNode" />
               <item name="SunhillBank" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SunhillBank" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SunhillBank" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -218,36 +259,6 @@
               <item name="SunhillBank" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="sunhillbank" type="462c0819:PsiDirectoryNode" />
-              <item name="accounts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SunhillBank" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SunhillBank" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="SunhillBank" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SunhillBank" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SunhillBank" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SunhillBank" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="sunhillbank" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SunhillBank" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SunhillBank" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="sunhillbank" type="462c0819:PsiDirectoryNode" />
               <item name="accounts" type="462c0819:PsiDirectoryNode" />
@@ -256,9 +267,12 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -276,72 +290,78 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.SunhillBankTest">
-    <configuration name="CheckingAccountTest.depositAndWithdrawFromCheckingAccountTestShouldNotFail" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="SunhillBank.test" />
+  <component name="RunManager" selected="Gradle.SunhillBank [build]">
+    <configuration name="BankApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sunhillbank.BankApplication" />
+      <module name="SunhillBank.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sunhillbank.accounts.*" />
+          <option name="PATTERN" value="sunhillbank.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="sunhillbank.accounts" />
-      <option name="MAIN_CLASS_NAME" value="sunhillbank.accounts.CheckingAccountTest" />
-      <option name="METHOD_NAME" value="depositAndWithdrawFromCheckingAccountTestShouldNotFail" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CheckingAccountTest.transferToAnotherAccountTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="SunhillBank.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sunhillbank.accounts.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="sunhillbank.accounts" />
-      <option name="MAIN_CLASS_NAME" value="sunhillbank.accounts.CheckingAccountTest" />
-      <option name="METHOD_NAME" value="transferToAnotherAccountTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+    <configuration name="SunhillBank [assemble]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="assemble" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
     </configuration>
-    <configuration name="CheckingAccountTest.withdrawMoreThanLimitShouldFailTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="SunhillBank.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sunhillbank.accounts.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="sunhillbank.accounts" />
-      <option name="MAIN_CLASS_NAME" value="sunhillbank.accounts.CheckingAccountTest" />
-      <option name="METHOD_NAME" value="withdrawMoreThanLimitShouldFailTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+    <configuration name="SunhillBank [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
     </configuration>
-    <configuration name="SavingAccountTest.testdeposit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="SunhillBank.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sunhillbank.accounts.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="sunhillbank.accounts" />
-      <option name="MAIN_CLASS_NAME" value="sunhillbank.accounts.SavingAccountTest" />
-      <option name="METHOD_NAME" value="testdeposit" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+    <configuration name="SunhillBank [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
     </configuration>
-    <configuration name="SunhillBankTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SunhillBankTest.testTransferBetweenCheckingAccountsnegative" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SunhillBank.test" />
       <extension name="coverage">
         <pattern>
@@ -351,18 +371,19 @@
       </extension>
       <option name="PACKAGE_NAME" value="sunhillbank" />
       <option name="MAIN_CLASS_NAME" value="sunhillbank.SunhillBankTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="METHOD_NAME" value="testTransferBetweenCheckingAccountsnegative" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.SunhillBankTest" />
-        <item itemvalue="JUnit.CheckingAccountTest.transferToAnotherAccountTest" />
-        <item itemvalue="JUnit.CheckingAccountTest.depositAndWithdrawFromCheckingAccountTestShouldNotFail" />
-        <item itemvalue="JUnit.SavingAccountTest.testdeposit" />
-        <item itemvalue="JUnit.CheckingAccountTest.withdrawMoreThanLimitShouldFailTest" />
+        <item itemvalue="Application.BankApplication" />
+        <item itemvalue="Gradle.SunhillBank [build]" />
+        <item itemvalue="Gradle.SunhillBank [clean]" />
+        <item itemvalue="Gradle.SunhillBank [assemble]" />
+        <item itemvalue="JUnit.SunhillBankTest.testTransferBetweenCheckingAccountsnegative" />
       </list>
     </recent_temporary>
   </component>
@@ -377,24 +398,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CheckingAccountTest_depositAndWithdrawFromCheckingAccountTestShouldNotFail - 2019.06.10 at 21h 09m 49s.xml">
-      <configuration name="CheckingAccountTest.depositAndWithdrawFromCheckingAccountTestShouldNotFail" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CheckingAccountTest_transferToAnotherAccountTest - 2019.06.10 at 21h 10m 04s.xml">
-      <configuration name="CheckingAccountTest.transferToAnotherAccountTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CheckingAccountTest_transferToAnotherAccountTest - 2019.06.10 at 21h 10m 05s.xml">
-      <configuration name="CheckingAccountTest.transferToAnotherAccountTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CheckingAccountTest_transferToAnotherAccountTest - 2019.06.10 at 21h 12m 35s.xml">
-      <configuration name="CheckingAccountTest.transferToAnotherAccountTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CheckingAccountTest_transferToAnotherAccountTest - 2019.06.10 at 21h 14m 18s.xml">
-      <configuration name="CheckingAccountTest.transferToAnotherAccountTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CheckingAccountTest_transferToAnotherAccountTest - 2019.06.10 at 21h 14m 25s.xml">
-      <configuration name="CheckingAccountTest.transferToAnotherAccountTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="CheckingAccountTest_transferToAnotherAccountTest - 2019.06.10 at 21h 16m 56s.xml">
       <configuration name="CheckingAccountTest.transferToAnotherAccountTest" configurationId="JUnit" />
     </history-entry>
@@ -407,32 +410,63 @@
     <history-entry file="SunhillBankTest - 2019.06.11 at 12h 02m 53s.xml">
       <configuration name="SunhillBankTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="SunhillBankTest_testTransferBetweenCheckingAccountsnegative - 2019.06.11 at 14h 22m 09s.xml">
+      <configuration name="SunhillBankTest.testTransferBetweenCheckingAccountsnegative" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SunhillBankTest_testTransferBetweenCheckingAccountsnegative - 2019.06.11 at 14h 22m 38s.xml">
+      <configuration name="SunhillBankTest.testTransferBetweenCheckingAccountsnegative" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SunhillBankTest_testTransferBetweenCheckingAccountsnegative - 2019.06.11 at 14h 23m 18s.xml">
+      <configuration name="SunhillBankTest.testTransferBetweenCheckingAccountsnegative" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SunhillBankTest_testTransferBetweenCheckingAccountsnegative - 2019.06.11 at 14h 24m 34s.xml">
+      <configuration name="SunhillBankTest.testTransferBetweenCheckingAccountsnegative" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SunhillBankTest_testTransferBetweenCheckingAccountsnegative - 2019.06.11 at 14h 25m 21s.xml">
+      <configuration name="SunhillBankTest.testTransferBetweenCheckingAccountsnegative" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SunhillBankTest_testTransferBetweenCheckingAccountsnegative - 2019.06.11 at 14h 27m 33s.xml">
+      <configuration name="SunhillBankTest.testTransferBetweenCheckingAccountsnegative" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="30" width="1600" height="870" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24967825" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25289574" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="0" weight="0.32884097" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.32793522" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" />
-      <window_info anchor="bottom" id="Run" order="3" weight="0.19272237" />
+      <window_info anchor="bottom" id="Run" order="3" visible="true" weight="0.11605938" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Debug" order="6" weight="0.2264151" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.23481782" />
       <window_info anchor="bottom" id="TODO" order="7" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32884097" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32928476" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Build" order="11" weight="0.32884097" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Gradle" order="3" />
+      <window_info anchor="right" id="Gradle" order="3" visible="true" weight="0.14543115" />
       <window_info anchor="right" id="Palette&#9;" order="4" />
     </layout>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/sunhillbank/SunhillBankTest.java</url>
+          <line>62</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/Assert.java">
@@ -531,19 +565,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/sunhillbank/accounts/SavingAccountTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
+        <state relative-caret-position="450">
           <caret line="36" selection-start-line="36" selection-end-line="40" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -553,57 +577,57 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/sunhillbank/SunhillBankTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
+        <state relative-caret-position="76">
+          <caret line="62" selection-start-line="62" selection-end-line="62" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sunhillbank/accounts/CheckingAccount.java">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mockito/mockito-core/2.28.2/8322b59516491570931c086329654ef841e61811/mockito-core-2.28.2-sources.jar!/org/mockito/internal/creation/bytebuddy/MockMethodInterceptor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="31" lean-forward="true" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+        <state relative-caret-position="155">
+          <caret line="107" selection-start-line="107" selection-end-line="107" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mockito/mockito-core/2.28.2/8322b59516491570931c086329654ef841e61811/mockito-core-2.28.2-sources.jar!/org/mockito/internal/invocation/RealMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#1014#1216#0" expanded="true" />
+            <element signature="e#1215#1216#0" expanded="true" />
+            <element signature="e#1428#1429#0" expanded="true" />
+            <element signature="e#1476#1477#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sunhillbank/accounts/Account.java">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-67">
-          <caret line="19" column="40" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
+        <state relative-caret-position="105">
+          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
           <folding>
-            <element signature="e#452#453#0" expanded="true" />
-            <element signature="e#475#476#0" expanded="true" />
+            <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sunhillbank/accounts/SavingAccount.java">
+    <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="17" column="50" selection-start-line="17" selection-start-column="50" selection-end-line="17" selection-end-column="50" />
+        <state relative-caret-position="255">
+          <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
           <folding>
-            <element signature="e#527#528#0" expanded="true" />
-            <element signature="e#584#585#0" expanded="true" />
+            <element signature="n#!!doc" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sunhillbank/BankApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sunhillbank/BankUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -614,10 +638,58 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sunhillbank/BankUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sunhillbank/accounts/SavingAccount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="16" column="50" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sunhillbank/accounts/CheckingAccount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sunhillbank/accounts/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="e#452#453#0" expanded="true" />
+            <element signature="e#475#476#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/sunhillbank/SunhillBank.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        <state relative-caret-position="210">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sunhillbank/BankApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

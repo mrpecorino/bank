@@ -18,9 +18,10 @@ repositories {
 }
 
 dependencies {
-   	implementation 'org.projectlombok:lombok:1.18.8'
-    implementation 'org.springframework.boot:spring-boot-starter:2.1.5.RELEASE'
+   	api 'org.projectlombok:lombok:1.18.8'
+    api 'org.springframework.boot:spring-boot-starter:2.1.5.RELEASE'
 
     testImplementation 'junit:junit:4.12'
     testImplementation 'org.springframework.boot:spring-boot-starter-test:2.1.5.RELEASE'
+    testImplementation 'org.mockito:mockito-core:2.28.2'
 }
